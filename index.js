@@ -32,3 +32,4 @@ else if (calculator.operator === "Modulus") {
 else {
     console.log("Please select a valid operator");
 }
+console.log("THE END.....");
